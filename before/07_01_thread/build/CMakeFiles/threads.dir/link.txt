@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wno-unused-parameter CMakeFiles/threads.dir/threads.cpp.o -o threads
