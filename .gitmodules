@@ -1,0 +1,3 @@
+[submodule "before/catch2"]
+	path = before/catch2
+	url = https://github.com/catchorg/catch2
